@@ -4,10 +4,20 @@ In order to ramp up in my practical and theoretical foundation in AI, I am addin
 
 # Objective
 1. Be able to explain in both high and low-level how an LLM works
-2. Be able to explain the latest innovations in LLMs training and inference and what those changes brought
-3. Be able to implement a basic LLM from scratch
-4. Be able to deconstruct an open-source LLM model to it's components and build it back up
-5. Master PyTorch first (due to available resources) then master Jax and T5X
+1. Be able to explain the latest innovations in LLMs training and inference and what those changes brought
+1. Be able to implement a basic LLM from scratch
+1. Be able to deconstruct an open-source LLM model to it's components and build it back up
+1. Master PyTorch first (due to available resources) then master Jax and T5X
 
 # Daily Progress
 ## Sunday, 20 July 2025
+1. Read [UL2 Paper](https://arxiv.org/abs/2205.05131)
+   1. Decoder-only, Encoder-only, Encoder-Decoder architectures
+      1. Encoder-Decoder very similar to Decoder-only but Encoder-Decoder is more sparse
+   2. Input-to-target paradigm vs in-place paradigm (Masked Language Modeling)
+   3. Mixture of Denoisers
+   4. Sparse models
+   5. Pre-training objectives - CausalLM, PrefixLM, Span Corruption (T5)
+   6. R-denoiser, S-denoiser, X-denoiser
+1. Watched [CS336 Lecture 1: Overview and Tokenization](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&ab_channel=StanfordOnline)
+   1. BPE tokenization - find most frequenct char pairs and group them together N number of times
