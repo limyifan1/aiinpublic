@@ -21,3 +21,12 @@ In order to ramp up in my practical and theoretical foundation in AI, I am addin
    6. R-denoiser, S-denoiser, X-denoiser
 1. Watched [CS336 Lecture 1: Overview and Tokenization](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&ab_channel=StanfordOnline)
    1. BPE tokenization - find most frequenct char pairs and group them together N number of times
+
+## Monday, 21 July 2025
+1. Watched [CS336 Lecture 2: Pytorch, Resource Accounting](https://www.youtube.com/watch?v=msHyYioAyNE&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=2&ab_channel=StanfordOnline)
+2. Started working on [Assignment 1](https://github.com/limyifan1/assignment1-basics) on creating a BEP tokenizer
+
+## Tuesday, 22 July 2025
+1. Continued [Assignment 1](https://github.com/limyifan1/assignment1-basics) on creating a BEP tokenizer
+2. Managed to get 2 out of 3 tests passed
+3. Failing on the speed test due to very naive implementation, will work on optimizing the speed tomorrow
