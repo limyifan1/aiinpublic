@@ -30,3 +30,4 @@ In order to ramp up in my practical and theoretical foundation in AI, I am addin
 1. Continued [Assignment 1](https://github.com/limyifan1/assignment1-basics) on creating a BEP tokenizer
 2. Managed to get 2 out of 3 tests passed
 3. Failing on the speed test due to very naive implementation, will work on optimizing the speed tomorrow
+4. Learnt all about pretokenization, UTF-8 format (not all 1 byte), converting to bytes, cProfile to profile code
