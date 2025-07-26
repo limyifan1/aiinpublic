@@ -34,3 +34,10 @@ In order to ramp up in my practical and theoretical foundation in AI, I am addin
 
 ## Thursday, 24 July 2025
 1. Working on optimizing BEP tokenizer to pass all 3 tests
+
+## Friday, 25 July 2025
+1. Managed to optimize the BEP tokenizer to make it faster and pass all 3 tests
+
+## Saturday, 25 July 2025
+1. Working on get_tokenizer which will take an existing vocab and merges and encode/decode strings
+2. Completed the encode, working on decode
