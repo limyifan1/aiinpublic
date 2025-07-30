@@ -41,3 +41,7 @@ In order to ramp up in my practical and theoretical foundation in AI, I am addin
 ## Saturday, 25 July 2025
 1. Working on get_tokenizer which will take an existing vocab and merges and encode/decode strings
 2. Completed the encode, working on decode
+
+## Wednesday, 30 July 2025
+1. Slow progress due to backlog of work from vacation
+2. Completed decode functionality for get_tokenizer, passing around 50% of tests
