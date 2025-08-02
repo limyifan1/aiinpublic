@@ -48,3 +48,5 @@ In order to ramp up in my practical and theoretical foundation in AI, I am addin
 
 ## Saturday 2 August 2025
 1. Completed get_tokenizer for Assignment 1, passing all tests.
+2. Trained BPE tokenizer for tinystories. However some issues for openwebtext, possibly due to lack of RAM / further optimizations required.
+3. Implemented Linear and Embedding modules. 
