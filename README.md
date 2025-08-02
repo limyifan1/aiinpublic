@@ -45,3 +45,6 @@ In order to ramp up in my practical and theoretical foundation in AI, I am addin
 ## Wednesday, 30 July 2025
 1. Slow progress due to backlog of work from vacation
 2. Completed decode functionality for get_tokenizer, passing around 50% of tests
+
+## Saturday 2 August 2025
+1. Completed get_tokenizer for Assignment 1, passing all tests.
